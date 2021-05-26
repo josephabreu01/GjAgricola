@@ -1,0 +1,836 @@
+[
+    {
+        "id":1,
+        "nombre":"SAFER 50SC DE 10 LITROS",
+        "Tipo": "FUNGICIDA"  
+    },
+    {
+        "id":1,
+        "nombre":"SAFER 50SC DE 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CYMONE 72 WP 500 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"QUIMAZIN 50 SC DE 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"PREVIO 72 SL DE 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"PREVIO 72 SL DE 10 LITROS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CONVINE PLUS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CONVINE 50 WG DE 150 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CONVINE GOLD 40 SCI LITRO CONVINE GOLD 40 SC 500 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"PYRIBACT 6 WP 1 LIBRA",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"PYRIBACT 6 WP 1 KILO PYRIBACT DUO 50 WP 500",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"GRS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"PYRIBACT DUO 50 WP 1 KILO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"TREBOL 25 EC DE 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"TREBOL 25 EC 500 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"SCORE 25 EC DE 500 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"SCORE 25 EC DE 100 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"FOSFONICUR K DE 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"EPOCA 12.5 SC DE 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"RIDER 50 WP DE 500 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"IMPIDE 70 WP DE 1 KILO CORAL 80 WP 2 LIBRAS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"LACA 75 WPI KILO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CRIBA COMBI CRIBA 25 SC 500 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CRIBA 25 SC 1 LITRO BRENDA 50 WP DE 500 GRS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"OXICUPER 70SC I LITRO OXICUPER 70SC 500CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"BT ENZYM I LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"GLAUCA 50 SC 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"GLAUCA 50 SC 250 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"EPOCA 12.5 SC 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"INTERMICIN 20 WP DE 300 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"GESUMT 25 WP 1 KILO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"VINCARE 51.75 WG 500 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"QUIMBO 50 EC 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"QUIMBO 50 EC DE 250 DEFENCUR 1 LITRO CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"MASPIC 71 SC 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"MASPIC 71 SC LITROS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"CHACON 50 WP 2 LIBRAS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"OXILOBAC 40 WP 750 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"BANOGREEN 70 WP DE 750 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"EXTRA COMBI 38 WG DE 1 KILO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"EXTRA COMBI 38 WG DE 200 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"WIPER 80 WG DE I KILO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"PROTEC PLUS 30 SC 1 LITRO",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"SWING 20 SC 100 CC",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":1,
+        "nombre":"SWING 20 SC DE 1 LITRO EXTRA Q 60 WG 750 GRAMOS",
+        "Tipo": "FUNGICIDA"  
+    },{
+        "id":2,
+        "nombre":"BLADE 25 EC I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"BLADE 25 EC 250 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"ALFAQUIN 10 EC I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"ALFAQUIN 10 EC 250 CC DE I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"ZENON 60 EC TUNEL ISEC I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TUNEL 18 EC DE 250 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"QUIMAPRID 30 SC 1 LITRO QUIMAPRID 30 SC 250 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"MEGA 70 WS 60 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"JIMO RAT 40 SOBRES JIMO RAT 4 SOBRES",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"JIMO GAS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TYSON 48 ECI LITRO X-TRIM I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"X-TRIM 5o0 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"X-TRIM 250 CC TRIZA 40 EC I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TRIZA 40FC 500 CC PRESTIGE 5 SG 100 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"PIRANA 25 WG 100 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"PYRIMITE 15 EC I LITRO PYRIMITE IS EC SOCC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"NEMAROOT WPI KILO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"SAGAZ 6 WG S00 GRAMOS VENUS 30 SCI LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"VENUS 30 SC 500 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"VENUS SC 100 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"BIOQUIM OXATE I LITRO TITANIC 10 SL I LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TITANIC 10 SL S00 CC CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TITANIC 10 SL 250 ALICE 24 SCIITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"ALICE 24 SC 250 CC ",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"NOBUG PLUS I LITRO NOBUG PLUS 500 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"NOBUG PLUS 250 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"MATE 45 SCILITRO MATE 45 SC, 500 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"MATE 45 SC 250 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"MATE 45 SC, 100 CC ",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"BORNEO IT SC DE 500 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"LANNATE 90 SP DE 100 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TRIACLOR 50SP DE 200 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"JIMO ANTI-INSECTO DE 400CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TALENT 20 SC DE 100 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"DELFIN 20 EC 1 LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"TIMER 80 WG 100 GRS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"OXAMYL 24 SL LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"PINOTRIP 45 SC 100 CC",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"METOMIL KUIK 90SP DE 100 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"FINPLAG 55 EC DE LITRO",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":2,
+        "nombre":"AGRINATE 90 SP DE 100 GRAMOS",
+        "Tipo": "INSECTICIDA"  
+    },{
+        "id":3,
+        "nombre":"CHACALIGRAMA 20 SL 1 LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"CHACALIGRAMA 20 SL 5 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"CHACALIGRAMA 20 SL 20 LTS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"FOGON 36 SL 1 LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"FOGON 36 SL 5 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"FOGON 36 SL 10 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"FOGON 36 SL 20 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"FOGON 36 SL 200 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"LANCHA 50 EC 1 LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"LINUREX 50 WP 500 GRAMOS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"OXADO 24,4 EC I LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"OXADO 24.4 EC 250 CC",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"TAURO 15 EC I LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"TAURO 15 EC 250 CC",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"AZADA 16 EC 1 LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"RIFLE 72 SL 1 LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"NILO 96 EC LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"NILO 96 EC 500 CC",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"SILEX 23 SL DE LITRO",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"SILEX 23 SL DE 20 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":3,
+        "nombre":"DREXER MSMA 72 SL DE 10 LITROS",
+        "Tipo": "HERBICIDA"  
+    },{
+        "id":4,
+        "nombre":"CALISTER 100 SL 500 CC",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CALISTER 100 SL 250 CC",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CALISTER 100 SL 60 CC",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"ATP 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY CA 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY K 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY K 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY MG 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY MIN -L 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY MIN-L 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY ZN 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY PROBORATE 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY L 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY L 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY RADIGROW 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CABOXY RADIGROW 10 LITROS PACKHARD LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PACK HARD 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"NUTRISORB DE 4 LITROS NUTRISORB DE LT",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"NUTRISORB DE 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"NUTRISORB DE 208 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY SELECTO LITRO CARBOXY SELECTO 250 CC",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PROMESOL 5X 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PROMESOL 5X DE I LITRO PROMESOL CA+DE LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PROMESOL CA+ DE 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MINERAL GOLD 24AA DE LITRO EVERGREEN DE LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MINERAL GOLD 20-20-20-ME DE 500GR",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MINERAL GOLD 15-05-30-ME DE 500 GR",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MINERAL GOLD 13-40-13+ ME DE S0 GR",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MINERAL GOLD 20-20-20-ME DE KILO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MINERAL GOLD 10-10-40 + ME DE 1 KILO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PH PLUS LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PH PLUS 500 CC",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PH PLUS 250 CC FOSFONICUR K I LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"FOSFONICUR K 10 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"ACIDO FOSFORICO 85% 35 KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"CARBOXY Fe SOLUBLE 5 KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MASVITAL LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"MASVITAL 20 LITROS DOUBLE UP DE LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"POTASIO KSM 1 KILO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"POTASIO KSM 5 KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BIOESTIM 1 LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"OESTIM 250 CC BIOESTIM 250 CC POWER 4 EC 30 CC",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"KELATRON MIX 25 LIBRAS KELATRON",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"FERTICOM (7-7-12+ ME) DE 110 LIBRAS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"ALGASMAR 11-11-11 44 LIBRAS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"ALGASMAR 18-05-20 44 LIBRAS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BIOSCIENCE 10-10-40-ME DE 25 KILOS ",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":" BIOSCIENCE 20-20-20+ME DE 25 KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BIOSCIENCE 13-40-13+ME DE 25 KILOS KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BIOSCIENCE 15-05-30-ME DE 25",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BIOSCIENCE RAIZ (13-60-13+ME) I KILO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BIOSCIENCE + FLOR I LITRO",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"OXYSIL K 110 LIBRAS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PULVERIZADOR JWZ-6B 25 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BOMBA DE MOCHILA 20 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BOMBA DE MOCHILA 5 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PIEZAS MOTORCITO PULVERIZADOR 3WZ-68",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"DAMOIL (ACEITE AGRICOLA) 1 LITRO ",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"DEFENCUR SUELO 5 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"DEFENCUR SUELO 20 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BOTAS AZUELES ALTAS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"BODEN 200 LITROS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"HILO BLANCO DE 11 LIBRAS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PEROXIDO DE HIDROGENO DE 30 KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"PEROXIDO DE HIDROGENO DE 65 KILOS",
+        "Tipo": "CARBOXY, FOLIARES Y OTROS CALISTER"  
+    },{
+        "id":4,
+        "nombre":"ZANAHORIA HANA. 100,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"ZANAHORIA ROMANCE 100,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"ZANAHORIA TRIUNFO F1 100,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"ZANAHORIA TRIUNFO 500,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"TOMATE TINTO BUGALU 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"TOMATE P-52F1 BUGALU 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PEPINO GRINGO 1000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CEBOLLA ROSADA MILENIO 1 LB",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"REMOLACHA CABERNET 25,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"REMOLACHA ELVIRA 25,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"LECHUGA VALLE VERDE 50 GRAMOS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"LECHUGA ROADRUNNER DE 25,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"APIO BUFALO 10 MIL SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"MAIZ DORADO 10,000",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"MAIZ SUGAR QUEEN 10,000",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"TOMATE TREMENDITY 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CALABACIN INVICTO F1 DE 3,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CALABACIN AMIRA F1 DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CALABACIN FELICIA F1 DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PIMIENTO TITAN F1 DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PIMIENTO TITAN F1 DE 5,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"ZANAHORIA MUSICO 100 MIL SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CEBOLLA PECHANGA F1 100 MIL SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CEBOLLA BLANCA LUICADIA F1 100 MIL SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CEBOLLA RED CORAL FI 100 MIL SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PEPINO MONALISA 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"TOMATE BUGALU BESTIAL 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PEPINO PATHON F1 1000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"TOMATE FARAON 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"LECHUGA ROMANA VAQUERO 25,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"AUYAMA EL NARANJO FI DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"CILANTRO AROMAS DE 44 LIBRAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PIMIENTO KLICHKO FI DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"PIMIENTO ZIRCON FI DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":" PEPINO GLADIADOR FI DE 1,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    },{
+        "id":4,
+        "nombre":"REPOLLO MORADO FLORANMA DE 5,000 SEMILLAS",
+        "Tipo": "SEMILLAS Y OTROS"  
+    }
+]

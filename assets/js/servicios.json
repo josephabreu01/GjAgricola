@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "servicio": "Manejo de cultivos",
+        "descipcion": "Ofrecemos una asesoría completa, desde el inicio de la siembra hasta la cosecha"
+    },
+    {
+        "id": 2,
+        "servicio": "Inspección y análisis de cultivos",
+        "descipcion": "Nuestros técnicos mantienen un monitoreo constante para conocer las condiciones de los cultivos."
+    },
+    {
+        "id": 3,
+        "servicio": "Manejo de cultivos",
+        "descipcion": "Ofrecemos una asesoría completa, desde el inicio de la siembra hasta la cosecha"
+    },
+    {
+        "id": 4,
+        "servicio": "Ensayos e Investigación Agrícola",
+        "descipcion": "Mantenemos una dinámica de investigation y ensayos en los cultivos, en nuestras investigaciones encontramos la manera de resolver problemas en tus cultivos"
+    },
+    {
+        "id": 5,
+        "servicio": "Semillas Híbridas",
+        "descipcion": "La investigation constante de nuevas genéticas en los principales cultivos de hortalizas"
+    },
+    {
+        "id": 6,
+        "servicio": "Defensivos Agrícolas",
+        "descipcion": "Contamos con una amplia gama de productos para la protección de tus cultivos"
+    },
+    {
+        "id": 7,
+        "servicio": "Fertilizantes",
+        "descipcion": "Desarrollamos formulas y programas de nutrición por cultivos"
+    },
+    {
+        "id": 8,
+        "servicio": "Producción de invernaderos",
+        "descipcion": "Contamos con un equipo especializado para el manejo de cultivos en ambientes controlados"
+    },
+    {
+        "id": 9,
+        "servicio": "Tecnología de punta",
+        "descipcion": "Nos mantenemos a la vanguardia de las principales técnicas y semillas desarrolladas en los principales mercados de producción agrícola."
+    },
+    {
+        "id": 10,
+        "servicio": "Preparación técnica y conocimientos de los cultivos",
+        "descipcion": "Mantenemos una formación continua de todo nuestro personal"
+    },
+    {
+        "id": 11,
+        "servicio": "Cuidado del hogar",
+        "descipcion": "Eliminación de plagas domésticas y manejo de plantas ornamentales"
+    }
+]
