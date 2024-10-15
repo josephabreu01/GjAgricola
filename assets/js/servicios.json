@@ -10,11 +10,6 @@
         "descipcion": "Nuestros técnicos mantienen un monitoreo constante para conocer las condiciones de los cultivos."
     },
     {
-        "id": 3,
-        "servicio": "Manejo de cultivos",
-        "descipcion": "Ofrecemos una asesoría completa, desde el inicio de la siembra hasta la cosecha"
-    },
-    {
         "id": 4,
         "servicio": "Ensayos e Investigación Agrícola",
         "descipcion": "Mantenemos una dinámica de investigation y ensayos en los cultivos, en nuestras investigaciones encontramos la manera de resolver problemas en tus cultivos"
